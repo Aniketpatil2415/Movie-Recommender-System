@@ -16,3 +16,7 @@ This project uses **Content-Based Filtering** to recommend movies. I have used t
 - **Libraries:** Pandas, NumPy, Scikit-learn, NLTK
 - **Frontend:** Streamlit
 - **Environment:** Jupyter Notebook / VS Code
+
+Screenshots :-
+
+  ![Project UI](Screenshot (217).png)
