@@ -19,4 +19,4 @@ This project uses **Content-Based Filtering** to recommend movies. I have used t
 
 Screenshots :-
 
-![Uploading Screenshot1.png…]()
+![Screenshot 77](./Screenshot1.png)
