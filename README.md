@@ -1,2 +1,24 @@
-# Movie-Recommender-System
-A Content-Based Movie Recommender System built with Python, Scikit-learn, and Streamlit. It suggests movies based on user preferences using Cosine Similarity.
+# 🎬 Movie Recommender System
+
+A Machine Learning based movie recommendation engine that suggests similar movies to a user based on a selected movie.
+
+## 🚀 Overview
+This project uses **Content-Based Filtering** to recommend movies. I have used the TMDB 5000 Movie Dataset to build this system. The web interface is built using **Streamlit** for a smooth user experience.
+
+## ✨ Features
+- Recommend top 5-10 similar movies.
+- Interactive Web UI using Streamlit.
+- Fast processing using Cosine Similarity.
+- Fetches real-time movie posters (if applicable).
+
+## 🛠️ Tech Stack
+- **Language:** Python
+- **Libraries:** Pandas, NumPy, Scikit-learn, NLTK
+- **Frontend:** Streamlit
+- **Environment:** Jupyter Notebook / VS Code
+
+## 📥 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/Movie-Recommender-System.git](https://github.com/your-username/Movie-Recommender-System.git)
