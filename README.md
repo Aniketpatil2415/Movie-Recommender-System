@@ -16,6 +16,7 @@ This project uses **Content-Based Filtering** to recommend movies. I have used t
 - **Libraries:** Pandas, NumPy, Scikit-learn, NLTK
 - **Frontend:** Streamlit
 - **Environment:** Jupyter Notebook / VS Code
+- **Datasets:**https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k
 
 Screenshots :-
 
