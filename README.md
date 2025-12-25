@@ -16,9 +16,3 @@ This project uses **Content-Based Filtering** to recommend movies. I have used t
 - **Libraries:** Pandas, NumPy, Scikit-learn, NLTK
 - **Frontend:** Streamlit
 - **Environment:** Jupyter Notebook / VS Code
-
-## 📥 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/Movie-Recommender-System.git](https://github.com/your-username/Movie-Recommender-System.git)
