@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender System
+<img width="990" height="170" alt="image" src="https://github.com/user-attachments/assets/0701fef4-660d-4dee-b41e-6d2dad19f143" /># 🎬 Movie Recommender System
 
 A Machine Learning based movie recommendation engine that suggests similar movies to a user based on a selected movie.
 
@@ -17,7 +17,10 @@ This project uses **Content-Based Filtering** to recommend movies. I have used t
 - **Frontend:** Streamlit
 - **Environment:** Jupyter Notebook / VS Code
 - **Datasets:** https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k
+- **DEMO LINK:** ```text
+https://youtu.be/Tg4XknynGNo
 
 Screenshots :-
 
 ![Screenshot 77](./Screenshot1.png)
+
